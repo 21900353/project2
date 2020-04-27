@@ -1,0 +1,55 @@
+s21900353@peace:~/oss2020/project1-1$ ./hwmain
+
+Menu : 1.Add student 2.Read 3.List 4.Search and print all 5. Create reportfile 6. Make file 7. Read file 8.Sort grade point 9.Delete one 10. Search and delete all 11 Search and Update all 12. Update one  0.Quit > 1
+
+Enter a new member's info.
+Name > Sangjin
+Subject > CE
+StudentID > 21900353
+Semester > 3
+Gender > m
+Grade > 2
+
+Menu : 1.Add student 2.Read 3.List 4.Search and print all 5. Create reportfile 6. Make file 7. Read file 8.Sort grade point 9.Delete one 10. Search and delete all 11 Search and Update all 12. Update one  0.Quit > 1
+
+Enter a new member's info.
+Name > Gildong
+Subject > EE
+StudentID > 21900212
+Semester > 3
+Gender > m
+Grade > 2
+
+Menu : 1.Add student 2.Read 3.List 4.Search and print all 5. Create reportfile 6. Make file 7. Read file 8.Sort grade point 9.Delete one 10. Search and delete all 11 Search and Update all 12. Update one  0.Quit > 3
+
+All records.
+1. [21900353] Sangjin / CE / 3 / m / 2
+2. [21900212] Gildong / EE / 3 / m / 2
+
+Menu : 1.Add student 2.Read 3.List 4.Search and print all 5. Create reportfile 6. Make file 7. Read file 8.Sort grade point 9.Delete one 10. Search and delete all 11 Search and Update all 12. Update one  0.Quit > 12
+
+Update one record.
+Enter a name>Gildong
+Enter Gildong's updated info
+Subject > EE
+Grade > 4
+Semester > 7
+
+Menu : 1.Add student 2.Read 3.List 4.Search and print all 5. Create reportfile 6. Make file 7. Read file 8.Sort grade point 9.Delete one 10. Search and delete all 11 Search and Update all 12. Update one  0.Quit > 3
+
+All records.
+1. [21900353] Sangjin / CE / 3 / m / 2
+2. [21900212] Gildong / EE / 7 / m / 4
+
+Menu : 1.Add student 2.Read 3.List 4.Search and print all 5. Create reportfile 6. Make file 7. Read file 8.Sort grade point 9.Delete one 10. Search and delete all 11 Search and Update all 12. Update one  0.Quit > 2
+
+Enter a neme>Sangjin
+student info
+Name: Sangjin
+Subject: CE
+studentID: 21900353
+semester: 3
+Gender: m
+Grade : 2
+
+Menu : 1.Add student 2.Read 3.List 4.Search and print all 5. Create reportfile 6. Make file 7. Read file 8.Sort grade point 9.Delete one 10. Search and delete all 11 Search and Update all 12. Update one  0.Quit > 0

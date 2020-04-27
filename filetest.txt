@@ -1,0 +1,61 @@
+s21900353@peace:~/oss2020/project1-1$ ./hwmain
+
+Menu : 1.Add student 2.Read 3.List 4.Search and print all 5. Create reportfile 6. Make file 7. Read file 8.Sort grade point 9.Delete one 10. Search and delete all 11 Search and Update all 12. Update one  0.Quit > 7
+
+There is no space
+Menu : 1.Add student 2.Read 3.List 4.Search and print all 5. Create reportfile 6. Make file 7. Read file 8.Sort grade point 9.Delete one 10. Search and delete all 11 Search and Update all 12. Update one  0.Quit > 3
+
+All records.
+1. [21800483] kimminhee / oss / 2 / w / 100
+2. [21800443] kimyoungee / oss / 4 / w / 100
+3. [21800289] Leeminhee / oss / 5 / w / 40
+4. [21900223] Ohminji / oss / 2 / w / 10
+5. [21700273] Yuhkyeongji / oss / 4 / m / 30
+6. [21400382] kimminshu / oss / 3 / m / 100
+7. [21700473] Yuhyeongjoo / oss / 4 / m / 90
+8. [21900382] Leeohju / oss / 3 / m / 70
+9. [21800483] kimminhee / oss / 2 / w / 100
+10. [21800443] kimyoungee / oss / 4 / w / 100
+11. [21800289] Leeminhee / oss / 5 / w / 40
+12. [21900223] Ohminji / oss / 2 / w / 10
+13. [21700273] Yuhkyeongji / oss / 4 / m / 30
+14. [21400382] kimminshu / oss / 3 / m / 100
+15. [21700473] Yuhyeongjoo / oss / 4 / m / 90
+16. [21900382] Leeohju / oss / 3 / m / 70
+17. [21800483] kimminhee / oss / 2 / w / 100
+18. [21800443] kimyoungee / oss / 4 / w / 100
+19. [21800289] Leeminhee / oss / 5 / w / 40
+20. [21900223] Ohminji / oss / 2 / w / 10
+21. [21700273] Yuhkyeongji / oss / 4 / m / 30
+22. [21400382] kimminshu / oss / 3 / m / 100
+23. [21700473] Yuhyeongjoo / oss / 4 / m / 90
+24. [21900382] Leeohju / oss / 3 / m / 70
+25. [21800483] kimminhee / oss / 2 / w / 100
+26. [21800443] kimyoungee / oss / 4 / w / 100
+27. [21800289] Leeminhee / oss / 5 / w / 40
+28. [21900223] Ohminji / oss / 2 / w / 10
+29. [21700273] Yuhkyeongji / oss / 4 / m / 30
+30. [21400382] kimminshu / oss / 3 / m / 100
+31. [21700473] Yuhyeongjoo / oss / 4 / m / 90
+32. [21900382] Leeohju / oss / 3 / m / 70
+33. [21800483] kimminhee / oss / 2 / w / 100
+34. [21800443] kimyoungee / oss / 4 / w / 100
+35. [21800289] Leeminhee / oss / 5 / w / 40
+36. [21900223] Ohminji / oss / 2 / w / 10
+37. [21700273] Yuhkyeongji / oss / 4 / m / 30
+38. [21400382] kimminshu / oss / 3 / m / 100
+39. [21700473] Yuhyeongjoo / oss / 4 / m / 90
+40. [21700273] Yuhkyeongji / oss / 4 / m / 30
+41. [21400382] kimminshu / oss / 3 / m / 100
+42. [21700473] Yuhyeongjoo / oss / 4 / m / 90
+43. [21900382] Leeohju / oss / 3 / m / 70
+44. [21800483] kimminhee / oss / 2 / w / 100
+45. [21800443] kimyoungee / oss / 4 / w / 100
+46. [21800289] Leeminhee / oss / 5 / w / 40
+47. [21900223] Ohminji / oss / 2 / w / 10
+48. [21700273] Yuhkyeongji / oss / 4 / m / 30
+49. [21400382] kimminshu / oss / 3 / m / 100
+50. [21700473] Yuhyeongjoo / oss / 4 / m / 90
+
+Menu : 1.Add student 2.Read 3.List 4.Search and print all 5. Create reportfile 6. Make file 7. Read file 8.Sort grade point 9.Delete one 10. Search and delete all 11 Search and Update all 12. Update one  0.Quit > 0
+
